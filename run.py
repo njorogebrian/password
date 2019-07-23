@@ -57,7 +57,7 @@ def main():
   print("--------------------------- ")
   
   print(f"Hey {user_name}. Would you like to create an account?")
-  print("\n")
+#   print("\n")
   
   while True:
     print("Use these codes to make requests:")
