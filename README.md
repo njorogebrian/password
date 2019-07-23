@@ -29,10 +29,11 @@ Python 3.6
  Currently no known bugs
 
  ## Support and Contatct Details
-chelseaowiti@gmail.com
+ @branjo@gmail.com
 
 ## Further help
 Contact me via email.
+Or Google
 
 ## LICENSE
 * [MIT LICENSE](LICENSE)
