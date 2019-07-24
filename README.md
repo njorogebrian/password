@@ -27,6 +27,7 @@ Python 3.6
 
  ## Known Bugs
  Currently no known bugs
+ for deleting an acccount
 
  ## Support and Contatct Details
  @branjo@gmail.com
